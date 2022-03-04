@@ -40,7 +40,7 @@
             this.label1.Font = new System.Drawing.Font("Tahoma", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(724, 42);
+            this.label1.Size = new System.Drawing.Size(739, 42);
             this.label1.TabIndex = 0;
             this.label1.Text = "التاريخ الميلادى الى القبطى";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -75,7 +75,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(724, 241);
+            this.ClientSize = new System.Drawing.Size(739, 241);
             this.Controls.Add(this.la_coptic);
             this.Controls.Add(this.la_georgian);
             this.Controls.Add(this.label1);
