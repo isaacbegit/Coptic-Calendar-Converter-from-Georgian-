@@ -40,4 +40,5 @@ https://github.com/isaacbegit/Georgian2coptic
 			return result;
 		}
 ```
+## For more inofrmation contact me at info@isaacbe.com
 
