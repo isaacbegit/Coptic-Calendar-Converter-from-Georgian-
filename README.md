@@ -3,8 +3,8 @@ Simple application written by C# to convert current Gregorian date to current Co
 
 Source Code on GitHub: 
 https://github.com/isaacbegit/Georgian2coptic
-
-# Metohd
+![alt text](https://github.com/isaacbegit/Georgian2coptic/blob/master/Georgian2coptic.jpg)
+###### georgian2coptic method
 ```
 	public string georgian2coptic(int day, int month, int year)
 		{
@@ -40,4 +40,4 @@ https://github.com/isaacbegit/Georgian2coptic
 			return result;
 		}
 ```
-![alt text](https://github.com/isaacbegit/Georgian2coptic/blob/master/Georgian2coptic.jpg)
+
